@@ -4,7 +4,7 @@
 
 **A webcam-powered virtual drum kit with real-time hand tracking, expressive strike detection, and studio-style drum playback.**
 
-[![Version](https://img.shields.io/badge/version-5.0-2563eb?style=flat-square)](https://github.com/sudeepa-w/cerberus-air-drum-studio)[![License](https://img.shields.io/badge/license-MIT-16a34a?style=flat-square)](LICENSE)[![Hand Tracking](https://img.shields.io/badge/hand%20tracking-MediaPipe-9333ea?style=flat-square)](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)[![Web Audio](https://img.shields.io/badge/audio-Web%20Audio%20API-f97316?style=flat-square)](https://developer.mozilla.org/docs/Web/API/Web_Audio_API)
+[![Version](https://img.shields.io/badge/version-1.0-2563eb?style=flat-square)](https://github.com/sudeepa-w/cerberus-air-drum-studio)[![License](https://img.shields.io/badge/license-MIT-16a34a?style=flat-square)](LICENSE)[![Hand Tracking](https://img.shields.io/badge/hand%20tracking-MediaPipe-9333ea?style=flat-square)](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)[![Web Audio](https://img.shields.io/badge/audio-Web%20Audio%20API-f97316?style=flat-square)](https://developer.mozilla.org/docs/Web/API/Web_Audio_API)
 
 [Get Started](#getting-started) · [Controls](#controls) · [Architecture](#architecture) · [Troubleshooting](#troubleshooting)
 
@@ -25,6 +25,9 @@
 | [Project Reference](#project-reference) | Directory layout, compatibility, and troubleshooting |
 
 ## Overview
+ <br>
+<img width="1913" height="1043" alt="d" src="https://github.com/user-attachments/assets/49dc78de-ecd9-40de-a3e9-a6f40d693532" />  <br> <br>
+
 
 **Cerberus Air Drum Studio** turns a browser and webcam into an expressive, hand-controlled drum instrument. The application detects both hands, maps their positions to six virtual pads, and identifies downward strike motion to trigger velocity-sensitive drum sounds. It is designed for rapid experimentation, casual performance, musical sketching, and interactive demonstrations without requiring a physical MIDI controller or electronic drum kit.
 
