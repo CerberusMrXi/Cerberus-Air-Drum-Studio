@@ -296,8 +296,8 @@ This project is distributed under the **MIT License**. See the [LICENSE](LICENSE
 
 | Resource | Link |
 | --- | --- |
-| GitHub | [@sudeepa-w](https://github.com/sudeepa-w) |
-| Project repository | [Cerberus Air Drum Studio](https://github.com/sudeepa-w/cerberus-air-drum-studio) |
+| GitHub | [@CerberusMrXi](https://github.com/CerberusMrXi) |
+| Project repository | [Cerberus Air Drum Studio](https://github.com/CerberusMrXi/Cerberus-Air-Drum-Studio) |
 
 ## Acknowledgments
 
